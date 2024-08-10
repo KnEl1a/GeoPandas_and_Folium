@@ -1,4 +1,3 @@
----
 
 # GeoPandas and Folium
 
@@ -9,4 +8,3 @@ This repository showcases examples and projects utilizing **GeoPandas** and **Fo
 
 **GeoPandas** simplifies geospatial data manipulation in Python, while **Folium** enables the creation of interactive and visually appealing maps. These notebooks provide practical examples and code snippets to help you integrate these tools effectively in your geospatial projects.
 
----
